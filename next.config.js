@@ -14,3 +14,7 @@ module.exports = {
     ignoreBuildErrors: true,
   },
 }
+
+module.exports = {
+  optimizeFonts: false,
+}
