@@ -2,6 +2,11 @@
   margin: 0;
 }
 
+@font-face {
+  font-family: "Montserrat Hairline";
+  src: url("../public/Fonts/Montserrat-Hairline.otf");
+}
+
 html {
   --scrollbarBG: rgba(68, 68, 68, 0.836);
   --thumbBG: #00e1ffce;
@@ -10,7 +15,7 @@ html {
 body {
   margin: 0;
   background: rgb(121, 121, 121);
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat Hairline";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scrollbar-width: thin;
