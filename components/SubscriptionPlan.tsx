@@ -12,7 +12,7 @@ function PricePlan() {
       <div id="subscriptionContainer">
         <div className={styles.title}>
           <h1>Subscription Plans</h1>
-          <p>Obviously, you want to know how much it will cost you, right? Well, we got you covered there. Just <span>2</span><span>simple plans so you don't need to scratch your head too much.</span> </p>
+          <p>Obviously, you want to know how much it will cost you, right? Well, we got you covered there. Just <span>2</span><span>simple plans so you don&apos;t need to scratch your head too much.</span> </p>
         </div>
         <div className={styles.price}>
           <div>
@@ -22,7 +22,7 @@ function PricePlan() {
               <strong>59</strong>
               <p>/mo</p>
             </div>
-            <p>You shouldn’t go for this plan unless you consider yourself a looser. How about skipping this and booking that shiny plan on your right?!?</p>
+            <p>You shouldn&apos;t go for this plan unless you consider yourself a looser. How about skipping this and booking that shiny plan on your right?!?</p>
             <div className={styles.list}>
               <ul>
                 <li>Feature 1</li>
